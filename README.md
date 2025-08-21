@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Funny Page</title>
+<style>
+body {
+background-color: #111;
+color: #f00;
+display: flex;
+align-items: center;
+justify-content: center;
+height: 100vh;
+margin: 0;
+font-family: Arial, sans-serif;
+text-align: center;
+}
+h1 {
+font-size: 4rem;
+}
+.emoji {
+font-size: 5rem;
+margin-top: 20px;
+}
+</style>
+</head>
+<body>
+<div>
+<h1>HELLO 😈</h1>
+<p class="emoji">😂🤣😈</p>
+<p>Gotcha! This is your simple demo website.</p>
+</div>
+</body>
+</html>
